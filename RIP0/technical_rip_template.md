@@ -6,6 +6,9 @@ Technical RIP Template
 ===
 
 
+[![hackmd-github-sync-badge](https://hackmd.io/jWt3ksRfS4iPCm-CisC7sw/badge)](https://hackmd.io/jWt3ksRfS4iPCm-CisC7sw)
+
+
 ## Preamble
 ```
 RIP#: <# to be assigned>
