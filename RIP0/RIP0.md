@@ -4,6 +4,9 @@ tags: RIP
 
 # RIP-000
 
+[![hackmd-github-sync-badge](https://hackmd.io/v2uAX3mtRPiHfgsJHzb2jg/badge)](https://hackmd.io/v2uAX3mtRPiHfgsJHzb2jg)
+
+
 should include:
 * White Paper
 * Website 
