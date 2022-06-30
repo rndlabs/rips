@@ -2,7 +2,7 @@
 tags: RIP
 ---
 
-# RIP-000
+# RIP-0
 
 [![hackmd-github-sync-badge](https://hackmd.io/v2uAX3mtRPiHfgsJHzb2jg/badge)](https://hackmd.io/v2uAX3mtRPiHfgsJHzb2jg)
 
